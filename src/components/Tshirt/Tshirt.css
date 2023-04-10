@@ -1,0 +1,13 @@
+.single-tSHirt{
+border: 1px solid lightblue;
+margin-top: 30px;
+border-radius: 15px;
+padding: 10px;
+}
+.single-tSHirt img{
+    height: 250px;
+    border-radius: 15px;
+}
+.single-tSHirt button{
+    border: 1px solid blueviolet;
+}
